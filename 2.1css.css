@@ -1,0 +1,29 @@
+.Main{
+}
+.backgroud{
+    background-image: url(Rectangle%2015.png);
+    margin-top: -6%;
+}
+.airplan{
+    background-image: url(Element.png);
+    background-repeat: no-repeat;
+    background-size: 50%,50%;
+    background-position: center;
+    padding-top: 54px
+}
+.world{
+    background-image: url(world_map_PNG28%202.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+}
+.photo{
+    background-image: url(left-img.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+}
+.appl{
+    background-image: url(download%20our%20app%20(1).png);
+}
+.foot{
+
+}

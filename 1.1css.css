@@ -1,0 +1,27 @@
+#firstmain{
+    background-image:url(map.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: right;
+    width: 765.3px;
+    height: 500.87;
+    
+}
+
+.head{
+    width: 350px;
+    height 355px;
+    opacity: 0.68;
+    margin-top: 180px
+}
+.vector{
+    height: 35;
+    width: 35;
+}
+#buttonhead{
+    background-color: D2F4FF;
+    color: 3A3A3A;
+}
+#flying{
+    margin-top: 2%;
+}
